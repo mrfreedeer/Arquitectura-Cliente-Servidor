@@ -1,0 +1,7 @@
+practicas/servidor_archivos/files/*
+practicas/servidor_archivos/*
+.vscode
+*.mp3
+*.m4a
+*.csv
+serverId.txt

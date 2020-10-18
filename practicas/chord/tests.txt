@@ -1,0 +1,6 @@
+
+python node.py -c :6666 -pr :5555 -r True -d localhost:5000 -id 56 &
+python node.py -c :6667 -pr :5666 -ra 192.168.0.15:6666 -d localhost:5000 -id 13 &
+python node.py -c :6668 -pr :5777 -ra 192.168.0.15:6666 -d localhost:5000 -id 26 &
+python node.py -c :6669 -pr :5888 -ra 192.168.0.15:6666 -d localhost:5000 -id 20 &
+
